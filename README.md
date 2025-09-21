@@ -38,7 +38,6 @@
 
    [![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
    [![TDS 2023](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=TDS-2023&theme=dark)](https://github.com/Mathiack/TDS-2023)
-   [![HotelHub](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=Bibleatory&theme=dark)](https://github.com/Mathiack/Bibleatory)
    [![Estudex](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=estudex&theme=dark)](https://github.com/Mathiack/estudex)
    
 </div>
