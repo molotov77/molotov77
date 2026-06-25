@@ -12,7 +12,7 @@
 
 <div align="center">
    <a href="#">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathiack&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathiack"&theme=dark />
    </a>
    <a href="https://github.com/Mathiack/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark&langs_count=6" />
