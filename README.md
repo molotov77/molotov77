@@ -4,7 +4,7 @@
 
 📑 RSTI Java Front-End 2024 Course Certificate by Senac RS <br>
 📑 RSTI Javascript Back-End 2024 Course Certificate by Senac RS <br>
-📑 Studying the Technical Course in Full-Stack Systems Development 2023 at Senac RS <br>
+📑 Full-Stack System Developer 2023 Technical Course by Senac RS <br>
 📑 English Course 4th module Certificate in Ávila Cursos
 
 <br>
