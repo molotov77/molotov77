@@ -16,7 +16,7 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathiack"&theme=dark />
    </a>
    -->
-   <a href="https://github.com/Mathiack/github-readme-stats">
+   <a href="https://github.com/molotov77/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molotov77&layout=compact&theme=dark&langs_count=6" />
    </a>
 </div>
