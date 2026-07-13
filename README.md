@@ -17,7 +17,7 @@
    </a>
    -->
    <a href="https://github.com/Mathiack/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark&langs_count=6" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molotov77&layout=compact&theme=dark&langs_count=6" />
    </a>
 </div>
 
@@ -39,6 +39,6 @@
 <div align="center">
 
    [![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
-   [![Estudex](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=estudex&theme=dark)](https://github.com/Mathiack/estudex)
+   [![Estudex](https://github-readme-stats.vercel.app/api/pin/?username=molotov77&repo=estudex&theme=dark)](https://github.com/Mathiack/estudex)
    
 </div>
